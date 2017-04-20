@@ -1,4 +1,4 @@
-### (实词)[http://blog.sina.com.cn/s/blog_5bdd992f01017ex9.html]
+### [实词](http://blog.sina.com.cn/s/blog_5bdd992f01017ex9.html)
 是 指 含有 实际 意义的 词语。实词 能 单独 充当 句子 成分，一般 包含 - 名词、动词、形容词、数词、量词、代词 六类。
 
 
