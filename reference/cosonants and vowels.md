@@ -24,28 +24,33 @@ y [医] w [巫]
 
 # 音节表
 
-b  ba bo bai bei bao ban ben bang beng bi bie biao bian bin bing
-p  pa po pai pao pou pan pen pang peng pi pie piao pian pin ping
-m  ma mo me mai mao mou man men mang meng mi mie miao miu mian min ming
-f  fa fo fei fou fan fen fang feng
-d  da de dai dei dao dou dan dang deng di die diao diu dian ding
-t ta te tai tao tou tan tang teng ti tie tiao tian ting
-n  na nai nei nao no nen nang neng ni nie niao niu nian nin niang ning
-l  la le lai lei lao lou lan lang leng li lia lie liao liu lian lin liang ling
-g  ga ge gai gei gao gou gan gen gang geng
-k  ka ke kai kou kan ken kang keng
-h ha he hai hei hao hou hen hang heng
-j  ji jia jie jiao jiu jian jin jiang jing
-q qi qia qie qiao qiu qian qin qiang qing
-x  xi xia xie xiao xiu xian xin xiang xing
-zh zha zhe zhi zhai zhao zhou zhan zhen zhang zheng
-ch cha che chi chai chou chan chen chang cheng
-sh sha she shi shai shao shou shan shen shang sheng
-r re ri rao rou ran ren rang reng
-z  za ze zi zai zao zou zang zeng
-c  ca ce ci cai cao cou can cen cang ceng
-s sa se si sai sao sou san sen sang seng
-y  ya yao you yan yang yu ye yue yuan yi yin yun ying
-w  wa wo wai wei wan wen wang weng wu
+b  ba bo bai bei bao ban ben bang beng bi bie biao bian bin bing  
+p  pa po pai pao pou pan pen pang peng pi pie piao pian pin ping  
+m  ma mo me mai mao mou man men mang meng mi mie miao miu mian min ming  
+f  fa fo fei fou fan fen fang feng  
+d  da de dai dei dao dou dan dang deng di die diao diu dian ding  
+t ta te tai tao tou tan tang teng ti tie tiao tian ting  
+n  na nai nei nao no nen nang neng ni nie niao niu nian nin niang ning  
+l  la le lai lei lao lou lan lang leng li lia lie liao liu lian lin liang ling  
+g  ga ge gai gei gao gou gan gen gang geng  
+k  ka ke kai kou kan ken kang keng  
+h ha he hai hei hao hou hen hang heng  
+j  ji jia jie jiao jiu jian jin jiang jing  
+q qi qia qie qiao qiu qian qin qiang qing  
+x  xi xia xie xiao xiu xian xin xiang xing  
+zh zha zhe zhi zhai zhao zhou zhan zhen zhang zheng  
+ch cha che chi chai chou chan chen chang cheng  
+sh sha she shi shai shao shou shan shen shang sheng  
+r re ri rao rou ran ren rang reng  
+z  za ze zi zai zao zou zang zeng  
+c  ca ce ci cai cao cou can cen cang ceng  
+s sa se si sai sao sou san sen sang seng  
+y  ya yao you yan yang yu ye yue yuan yi yin yun ying  
+w  wa wo wai wei wan wen wang weng wu  
 
 共计 348 个 音节。如果 考虑 声调，中文 有 348 * 4 = 1392 种 发音。
+
+可以 考虑 创造 1392 个 字 （音字， 无 任何 意义，只 表达 发音），专门 用以 音译。这些 字 应当 非常 容易 记忆。可以 考虑 为 每个 声母 和 韵母 以及 声调 设计 一个 形状。
+
+音字的 结构 分 上下 两 部分。 上半部 由 表示 声母 和 韵母的 部分 组成，声母 在 左， 韵母 在 右；下半部 表达 音调，一 代表 一声，儿 代表 二声，川 代表 三声，四 代表 四声。
+
